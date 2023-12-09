@@ -1,0 +1,4 @@
+baseURL = "http://dejanskipostopek.si/"
+languageCode = "sl"
+title = "dejanski postopek"
+theme = 'lugo'
